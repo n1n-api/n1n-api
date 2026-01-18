@@ -1,7 +1,7 @@
 <div align="center">
   <img src="n1n_logo.svg" alt="n1n.ai Logo" width="200" height="auto" />
   <h1>n1n AI Gateway</h1>
-  <p>Example: <b>Access All AI Models in One Place with up to 90% off!</b></p>
+  <p><b>Access All AI Models in One Place with up to 90% off!</b></p>
   
   <a href="https://docs.n1n.ai/en/7864359m0">Documentation</a> •
   <a href="https://api.n1n.ai/register">Get API Key</a> •
