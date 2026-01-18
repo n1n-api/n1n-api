@@ -78,5 +78,5 @@ Need help? Reach out to us via our [support channel](mailto:support@n1n.ai) or c
 ---
 
 <div align="center">
-  <p>© 2024 n1n.ai. All rights reserved.</p>
+  <p>© 2026 n1n.ai. All rights reserved.</p>
 </div>
