@@ -12,7 +12,7 @@
 
 # 🚀 Welcome to n1n.ai
 
-n1n.ai is a comprehensive AI gateway that provides unified access to the world's leading language models through a single, stable, and developer-friendly API. We empower developers and businesses to integrate advanced AI capabilities without the complexity of managing multiple providers.
+n1n.ai is a comprehensive AI gateway that provides unified access to the world's leading language models (500+) through a single, stable, and developer-friendly API. We empower developers and businesses to integrate advanced AI capabilities without the complexity of managing multiple providers.
 
 ## 🌟 What Makes n1n Special?
 
@@ -28,8 +28,8 @@ n1n.ai is a comprehensive AI gateway that provides unified access to the world's
 
 ### ⚡ Available Models
 We support a vast array of models including but not limited to:
-- **LLMs**: GPT-4, Claude 3.5, Gemini 1.5, DeepSeek, Qwen
-- **Image & Video**: Midjourney, DALLE-3, Stable Diffusion
+- **LLMs**: GPT-5, Claude 4.5, Gemini 3, DeepSeek, Qwen, etc.
+- **Image & Video**: Midjourney, DALLE-3, Stable Diffusion, etc.
 - **Specialized**: Text-to-Speech, Speech-to-Text, and more.
 
 ### 💰 Developer Friendly
@@ -64,8 +64,12 @@ curl https://api.n1n.ai/v1/chat/completions \
 
 ## 📚 Resources
 
-*   [**Documentation**](https://docs.n1n.ai/en/7864359m0) - Full API references and guides.
-*   [**Status Page**](https://status.n1n.ai) - Real-time system status. (Optional placeholder if exists)
+*   [**Website**](https://n1n.ai)
+*   [**Dashboard**](https://api.n1n.ai)
+*   [**Blog**](https://explore.n1n.ai)
+*   [**Documentation**](https://docs.n1n.ai/en/7864359m0)
+*   [**Contact Us**](https://api.n1n.ai/customersupport)
+
 
 ## 🤝 Support
 
