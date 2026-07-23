@@ -6,6 +6,7 @@
   <a href="https://docs.n1n.ai/en/7864359m0">Documentation</a> •
   <a href="https://api.n1n.ai/register">Get API Key</a> •
   <a href="https://n1n.ai">Website</a>
+  <a href="https://llm-api.net">亚洲区访问地址</a>
 </div>
 
 <br />
